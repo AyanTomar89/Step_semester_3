@@ -1,7 +1,35 @@
 # Step_semester_3
 
 Semester 3 Java coursework repository containing daily coding sessions, class problems, assignments, and progress organized using a structured Git branching workflow.
+## Date: 04-09-2026
 
+**Today's Work:**
+
+- Created and organized the Java project structure for Session 2.
+- Created the `array` package.
+- Created the `class_problems` package for problems solved during the session.
+- Created the `assigment_problems` package for assigned problems.
+- Implemented class problems:
+  - Two Sum
+  - Best Time to Buy and Sell Stock
+  - Contains Duplicate
+  - Merge Two Sorted Arrays
+  - Rotate Array
+- Implemented assignment problems:
+  - Product of Array Except Self
+  - Maximum Subarray
+  - ThreeSum
+  - Subarray Sum Equals K
+  - Find Minimum in Rotated Sorted Array
+- Tested the Java programs using IntelliJ IDEA.
+- Used Git feature branch `feature/session_2` for Session 2 coding work.
+
+**What I Learned:**
+
+- Practiced solving array problems using different approaches.
+- Learned techniques such as two pointers, prefix/suffix products, Kadane's algorithm, and binary search.
+- Practiced organizing and managing coding work using Git branches.
+- 
 ## Date: 22-08-2026
 
 **Today's Work:**
